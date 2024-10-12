@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Studied Mathematics at the Aristotle University of Thessaloniki, Greece<br>✨ Creating bugs since 2020<br>📚 I'm currently learning about Computational Finance</p>
+<p align="left">🎓 Studied Mathematics at the Aristotle University of Thessaloniki, Greece<br>✨ Creating bugs since 2020<br>📚 I'm currently learning about Computational Finance and Exotic Options pricing</p>
 
 ###
 
