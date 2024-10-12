@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Studied Mathematics at the Aristotle University of Thessaloniki, Greece<br>✨ Creating bugs since 2020<br>📚 I'm currently learning about Computational Finance and Exotic Options pricing</p>
+<p align="left">🎓 Studied Mathematics at the Aristotle University of Thessaloniki, Greece<br>✨ Creating bugs since 2020<br>📚 I'm currently learning about Computational Finance and Exotic Options Pricing</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🎲 Stochastic processes, Probability theory, Combinatorics, Graph Theory<br>📝 Measure theory, Fourier Analysis<br>🔍 Optimization, Computational mathematics<br>📈 Statistics, Time Series, Statistical inference, Sampling<br>💸 Financial derivatives, Game theory</p>
+<p align="left">🎲 Stochastic processes, Probability theory, Combinatorics, Graph Theory<br>📝 Measure theory, Fourier Analysis, Stochastic calculus<br>🔍 Optimization, Computational mathematics<br>📈 Statistics, Time Series, Statistical inference, Sampling<br>💸 Financial derivatives, Asset pricing, Game theory</p>
 
 ###
 
