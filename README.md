@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🎲 Stochastic processes, Probability theory, Combinatorics, Graph Theory<br>📝 Measure theory, Fourier Analysis,<br>🔍 Optimization, Computational mathematics,<br>📈 Statistics, Time Series, Statistical inference, Sampling, <br>💸 Financial derivatives, Game theory</p>
+<p align="left">🎲 Stochastic processes, Probability theory, Combinatorics, Graph Theory<br>📝 Measure theory, Fourier Analysis<br>🔍 Optimization, Computational mathematics<br>📈 Statistics, Time Series, Statistical inference, Sampling<br>💸 Financial derivatives, Game theory</p>
 
 ###
 
