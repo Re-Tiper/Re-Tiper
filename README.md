@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🎲 Stochastic processes, Probability theory, Combinatorics, Graph Theory<br>📝 Measure theory, Fourier Analysis, Stochastic calculus<br>🔍 Optimization, Computational mathematics<br>📈 Statistics, Time Series, Statistical inference, Sampling<br>💸 Financial derivatives, Asset pricing, Game theory</p>
+<p align="left">🎲 Stochastic processes, Probability theory, Combinatorics, Graph Theory<br>📝 Measure theory, Fourier Analysis, Stochastic calculus<br>🔍 Optimization, Computational mathematics, Stochastic volatility models<br>📈 Statistics, Time Series, Statistical inference, Sampling<br>💸 Financial derivatives, Asset pricing, Game theory</p>
 
 ###
 
