@@ -10,6 +10,8 @@
 
 ###
 
+During my undergraduate studies, I explored various branches of mathematics each offering unique perspectives and challenges. Among these, probability theory and stochastic processes stood out, sparking my interest in understanding uncertainty in the real world. Courses in statistics, sampling, optimization, time series, computational mathematics and programming provided me with the tools and theory to tackle problems in decision-making and data analysis. I particularly enjoyed the experience of developing an engine for a strategy game with Monte Carlo Tree search and analyzing the academic performance of students at my school with statistical inference models. Additionally, electives in analysis, informatics and algebra further enhanced my problem-solving abilities and mathematical intuition. 
+
 <p align="left">🎓 Studied Mathematics at the Aristotle University of Thessaloniki, Greece<br>✨ Creating bugs since 2020<br>📚 I'm currently learning about Exotic Options Pricing</p>
 
 ###
