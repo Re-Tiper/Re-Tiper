@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Themis and I'm a Mathematician, from Greece. <br>
-  I am currently doing my MSc in Stochactics and Financial Mathematics at the University of Amsterdam.
+  I am currently doing my MSc in Stochactics and Financial Mathematics at the University of Amsterdam. <br>
   I use GitHub as way to store scripts and projects I'm working on in my free time, as well as those developed during my studies.</p>
 
 ###
