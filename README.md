@@ -2,25 +2,7 @@
 
 ###
 
-<p align="left">My name is Themis and I'm a Mathematician, from Greece. <br>
-  I am currently doing my MSc in Stochactics and Financial Mathematics at the University of Amsterdam. <br>
-  I use GitHub as way to store scripts and projects I'm working on in my free time, as well as those developed during my studies.</p>
-
-###
-
-<h2 align="left">About me:</h2>
-
-###
-
-<p align="left">🎓 Studied Mathematics at the Aristotle University of Thessaloniki, Greece<br>✨ Creating bugs since 2020<br>📚 I'm currently learning about Exotic Options Pricing</p>
-
-###
-
-<h2 align="left">Interests:</h2>
-
-###
-
-<p align="left">🎲 Stochastic processes, Probability theory, Combinatorics, Graph Theory<br>📝 Measure theory, Fourier Analysis, Stochastic calculus<br>🔍 Optimization, Computational mathematics<br>📈  Stochastic volatility models, Time Series<br>💸 Financial derivatives, Game theory</p>
+I use GitHub as way to store scripts and projects I'm working on in my free time, as well as those developed during my studies.</p>
 
 ###
 
